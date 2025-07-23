@@ -23,7 +23,7 @@ const Landing = () => {
             Coming Soon
           </h1>
           <p className="text-lg md:text-xl">
-            We’re working hard to launch{" "}
+            We’re working hard to launch {" "}
             <strong className="text-green-500">KBA</strong>!
           </p>
         </div>
