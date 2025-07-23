@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Fitness Style",
+  title: "Kahf Basketball Academy",
   description: "Admin panel of fitness style apk",
 };
 
